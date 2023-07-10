@@ -6,7 +6,7 @@
 <p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sergio3144" alt="sergio3144"/></a></p>
 
 
-- 🌱 Actualmente estoy aprendiendo **React.js, Sql Server, Next .js**
+- 🌱 Actualmente estoy aprendiendo **React.js, Sql Server, Next.js, TypeScript**
 
 - 👨‍💻 Todos mis proyectos están disponibles en [https://sergio-gonzalez.netlify.app/](https://sergio-gonzalez.netlify.app/)
 
