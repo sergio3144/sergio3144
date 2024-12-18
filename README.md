@@ -7,9 +7,6 @@
 
 
 - 🌱 Actualmente estoy aprendiendo **Node.js, PostgreSql, Express, TypeScript**
-
-- 👨‍💻 Todos mis proyectos están disponibles en [https://sergio-gonzalez.netlify.app/](https://sergio-gonzalez.netlify.app/)
-
 - 📫 Cómo contactarme **sergiofront.455@gmail.com**
 
 <a href="https://linkedin.com/in/sergiogonzalez3144" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sergiogonzalez3144" height="30" width="40"/></a>
