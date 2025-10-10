@@ -1,6 +1,6 @@
 <!-- Encabezado animado -->
 <h1 align="center">👋 ¡Hola, soy <strong>Sergio González</strong>!</h1>
-<h3 align="center">💻 Desarrollador Front-End | 🚀 Apasionado por crear experiencias interactivas</h3>
+<h3 align="center">💻 Desarrollador Frontend | 🚀 Apasionado por crear experiencias interactivas</h3>
 
 ---
 
